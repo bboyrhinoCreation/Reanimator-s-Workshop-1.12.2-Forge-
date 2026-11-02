@@ -1,0 +1,28 @@
+# END USER LICENSE AGREEMENT & TERMS OF USE
+## Project: Reanimator's Workshop
+## Copyright (c) 2026 bboyrhinoCreation (Colin Blevins)
+
+### 1. OWNERSHIP OF THE COMPILATION
+This modification ("the Mod") is a creative compilation designed, coordinated, and arranged by the human Author listed above. The Author claims full, exclusive proprietary rights and "All Rights Reserved" protection over the overall selection, structural coordination, system design, gameplay mechanics progression, and unique arrangement of the Mod as a unified, functional package.
+
+### 2. EXCLUSION OF INDIVIDUAL AI-GENERATED ASSETS
+In compliance with global intellectual property standards regarding automated tools, notice is hereby given that the underlying software code, visual textures, and audio assets contained within this Mod were generated using artificial intelligence utilities under the direction of the human designer. 
+* The Author does not claim individual, standalone copyright ownership over the raw, unedited AI-generated source files, code blocks, or asset binaries.
+* Standalone extraction, reuse, or modification of these uncopyrightable public-domain source elements by third parties does not constitute copyright infringement of the individual files themselves.
+
+### 3. RESTRICTIONS ON THE TOTAL WORK
+You are granted a limited, personal, non-exclusive, non-transferable license to download, install, and play this Mod for personal entertainment. 
+
+You are STRICTLY PROHIBITED from:
+* Re-hosting, mirroring, or distributing the Mod package on third-party websites or platforms as a standalone project without explicit written permission. (Distribution as part of a larger modpack is freely permitted under Section 4).
+* Claiming the unified project, its design document, or its unique structural compilation as your own work.
+* Monetizing the overall Mod package, its distribution, or its compilation directly through unauthorized paywalls, sales, or commercial re-distribution.
+
+### 4. MODPACK, CONFIGURATION, AND REHOSTING POLICY
+You are explicitly permitted to include this Mod inside any larger, compiled modpack distribution. To facilitate this, the following rights are granted to modpack creators:
+* **Rehosting:** The Mod's compiled files (.jar) may be re-hosted, mirrored, or embedded on third-party websites, public servers, and alternative launchers, provided it is strictly bundled as an integrated part of a larger, multi-mod compilation.
+* **Configurations:** Modpack creators are fully permitted to modify, distribute, and swap the Mod’s default configuration files (.cfg, .toml, or .json formats) to tailor the experience for their specific modpack environment.
+* **Recipe and Balance Tweaking:** Modpack creators are fully permitted to alter, inject, remove, or change game recipes, drop rates, and progression balances associated with this Mod using script engines (such as CraftTweaking/KubeJS) or data packs within the context of their modpack.
+
+### 5. TERMINATION
+Any breach of this Agreement immediately terminates your license to utilize the Mod compilation. The Author reserves the right to request the removal of unauthorized standalone mirrors or distribution pages of the total package on any hosting platform.
