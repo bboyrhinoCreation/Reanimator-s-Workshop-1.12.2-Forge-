@@ -34,9 +34,7 @@ We fully support the modding community and modpack creators! You are explicitly 
 *   **Mod Loader:** Forge (14.23.5.2860 or newer recommended)
 *   **Dependencies:** None required. Optional support for JEI, Just Enough Resources, Tinkers' Construct, Construct's Armory and Pam's HarvestCraft. Each switches on only when that mod is installed.
 
-Simply download the compiled `.jar` file from our official releases pages (https://bboyrhinocreation.itch.io/reanimators-workshop)) and drop it into your instance's `mods` folder
-or
-in this repository.
+Simply download the compiled `.jar` file from our official releases pages (https://bboyrhinocreation.itch.io/reanimators-workshop))  or in this repository under releases and drop it into your instance's `mods` folder.
 
 ---
 
