@@ -67,6 +67,7 @@ You can also report bugs and get help on our [Discord](https://discord.gg/K7E9DC
 ## 💬 Community & Support
 *   **Download & Updates:** [itch.io](https://bboyrhinocreation.itch.io/reanimators-workshop)
 *   **Discord:** [Join the Discord](https://discord.gg/K7E9DCDpx7)
+*   **Instagram:** .[Instagram](https://www.instagram.com/bboyrhinocreation/)
 *   **Videos & Devlogs:** [YouTube](https://www.youtube.com/@bboyrhinocreation)
 *   **Support the Mod:** [Buy Me a Coffee](https://buymeacoffee.com/bboyrhinocreation)
 *   **Support the Mod:** [Patreon](https://www.patreon.com/c/bboyrhinoCreation)
