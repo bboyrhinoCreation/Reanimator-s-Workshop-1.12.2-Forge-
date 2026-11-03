@@ -19,6 +19,15 @@ This project features unique gameplay progression, custom mechanics, and entirel
 
 ---
 
+## Compatibility
+Built-in Compatibility
+
+- Just Enough Items (JEI) by mezz - https://www.curseforge.com/minecraft/mc-mods/jei
+
+- Just Enough Resources (JER) by way2muchnoise - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+
+- SimpleHarvest by TehNut - https://www.curseforge.com/minecraft/mc-mods/simpleharvest
+
 ## 📦 Modpack Policy
 We fully support the modding community and modpack creators! You are explicitly permitted to use this mod in your modpacks under the following terms:
 *   **Rehosting Allowed:** You may bundle and re-host the mod's `.jar` file directly within your pack configuration or on custom launchers, provided it is part of a larger, multi-mod compilation.
